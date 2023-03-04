@@ -1,4 +1,4 @@
-# Microbit_Lesson_10
+# Microbit_Night_Light
 Lesson 10 of my Intro to Python course with Microbit
 
 Program Overview: This program is a simple night light created using the microbit and python. It uses a photoresistor, connected to the microbit’s 0 and 3V pins with alligator wires, to measure the surrounding environment’s light level and adjust the brightness of the screen accordingly.
